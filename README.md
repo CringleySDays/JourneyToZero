@@ -1,6 +1,6 @@
 # Journey To Zero
 
-Running the file content, make sure to have (node)[https://nodejs.org/en] installed and having a code editor preferably a (Visual Studio Code)[https://code.visualstudio.com/] 
+Running the file content, make sure to have [node](https://nodejs.org/en) installed and having a code editor preferably a (Visual Studio Code)[https://code.visualstudio.com/] 
 Install (git bash)[https://git-scm.com/downloads] 
 
 
