@@ -6,7 +6,7 @@ Install [git bash](https://git-scm.com/downloads)
 
 ## Steps to Follow:
 - Open git bash using right clicking onto the environment in file explorer for example to add clone the files into a folder that it'll create
-- Enter in `git clone https://github.com/CringleySDays/JourneyToZero`
+- Enter in `git clone https://github.com/CringleySDays/JourneyToZero` in the git bash console
 - Next open the folder in Visual Studio Code or your Code Editor of your choice and in the terminal Enter this command `npm install -g bun`
 - In the terminal Enter in `bun install express` and then `bun index.js`
 - Open a browser and enter in `localhost:8080` and tada you've successfully opened my project
