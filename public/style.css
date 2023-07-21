@@ -1,0 +1,119 @@
+@font-face {
+    font-family: LeagueGhotic;
+    src: url(Fonts/LeagueGothic-1.601/static/TTF/LeagueGothic-Regular.ttf);
+}
+
+.coming-soon {
+    font-family: LeagueGhotic;
+    text-align: center;
+    margin-top: 400px;
+}
+
+.information-decoration {
+    font-size: 50px;
+    color: darkgrey;
+    transition: text-decoration 0.15s;
+}
+
+.information-decoration:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    transition: color 0.15s, progress 0.15s;
+    color: grey;
+}
+
+.information-decoration:active {
+    color: blueviolet;
+    cursor: progress;
+}
+
+body {
+    background: #121212;
+  }
+
+
+.div-attribute {
+    background-color: #121212;
+    position: fixed; 
+    top: 42%; 
+    left: 23%; 
+    width: 55%;
+    height: 25%;
+}
+
+.button-decoration {
+    width: 28%;
+    height: 120%;
+    background-image: url("bubble.png");
+    background-color: transparent;
+    background-position: center;
+    background-size: cover;
+    font-size: 27px;
+    padding-bottom: 3%;
+}
+
+
+
+.button-decoration-2{
+    width: 27%;
+    height: 102%;
+    background-image: url("bubble2.png");
+    background-color: transparent;
+    background-position: center;
+    background-size:cover;
+    font-size: 25px;
+    
+}
+
+
+
+.button-decoration-3{
+    color: white;
+    width: 20%;
+    height: 76%;
+    background-image: url("bubble3.png");
+    background-color: transparent;
+    background-position: center;
+    background-size:cover;
+    font-size: 15px;
+    
+}
+
+button {
+    border-radius: 50%;
+    border: none;
+    position: relative;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+h1 {
+    color: blue;
+    padding-left: 1%;
+}
+
+p {
+    color: white;
+}
+
+.hyperlink-decoration {
+    text-decoration: underline;
+    transition: cursor 0.15s;
+}
+
+.hyperlink-decoration:hover {
+    cursor: pointer;
+}
+
+.title-decoration {
+    text-decoration: underline;
+    font-size: 60px;
+    text-align: center;
+}
+
+.div-decoration {
+    width: 75%;
+    padding-left: 1%;
+}
