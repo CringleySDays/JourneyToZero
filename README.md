@@ -1,8 +1,11 @@
 # Journey To Zero
 
-Running the file content, make sure to have [node](https://nodejs.org/en) installed and having a code editor preferably a [Visual Studio Code](https://code.visualstudio.com/)
-Install [git bash](https://git-scm.com/downloads)
+Running the file content, make sure to have [NodeJS](https://nodejs.org/en) installed and having a code editor preferably a [Visual Studio Code](https://code.visualstudio.com/)
+Install [git bash](https://git-scm.com/downloads) to install the repository and to run the project.
 
+### Content Changes:
+- `main` branch consists of the original content whilst `second-main` consists of up-to-date content that I'm going to
+further research. 
 
 ## Steps to Follow:
 - Open git bash using right clicking onto the environment in file explorer for example to add clone the files into a folder that it'll create
