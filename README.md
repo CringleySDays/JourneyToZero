@@ -5,7 +5,7 @@ Install [git bash](https://git-scm.com/downloads) to install the repository and 
 
 ### Content Changes:
 - `main` branch consists of the original content whilst [main-two](https://github.com/CringleySDays/JourneyToZero/tree/main-two) consists of up-to-date content that I'm going to
-further research. 
+further research in the future. 
 
 ## Steps to Follow:
 - Open git bash using right clicking onto the environment in file explorer for example to add clone the files into a folder that it'll create
