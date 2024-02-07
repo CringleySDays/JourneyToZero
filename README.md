@@ -4,7 +4,7 @@ Running the file content, make sure to have [NodeJS](https://nodejs.org/en) inst
 Install [git bash](https://git-scm.com/downloads) to install the repository and to run the project.
 
 ### Content Changes:
-- `main` branch consists of the original content whilst `second-main` consists of up-to-date content that I'm going to
+- `main` branch consists of the original content whilst [main-two](https://github.com/CringleySDays/JourneyToZero/tree/main-two) consists of up-to-date content that I'm going to
 further research. 
 
 ## Steps to Follow:
